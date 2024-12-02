@@ -12,7 +12,7 @@
  2010/01/08 - RD: Update master.execute(..) to calculate lengths automatically based on requested command
 """
 
-from __future__ import with_statement
+#from __future__ import with_statement
 
 import struct
 import threading
