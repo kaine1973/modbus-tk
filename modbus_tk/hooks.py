@@ -9,7 +9,7 @@
  This is distributed under GNU LGPL license, see license.txt
 """
 
-from __future__ import with_statement
+#from __future__ import with_statement
 import threading
 
 _LOCK = threading.RLock()
